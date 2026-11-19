@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: >-
+  Cite the exact released version of this software. This source package
+  uses the author-designated local ReFIT v2.0 implementation; command-line
+  entry points enable UCB v2 by default.
+type: software
+version: "2.0"
+repository-code: "https://github.com/JiangtaoDing/Refit"
+url: "https://github.com/JiangtaoDing/Refit/releases/tag/v2.0"
+license: MIT
+title: "ReFIT: A Drift-Aware Recovery Framework for Resource-Efficient IoT Intrusion Detection"
+authors:
+  - family-names: Ding
+    given-names: Jiangtao
+  - family-names: Li
+    given-names: Chenyang
+  - family-names: Wang
+    given-names: Xu
+  - family-names: Dong
+    given-names: Qinhao
+  - family-names: Cheng
+    given-names: Hongbing
+abstract: >-
+  Minimal research implementation of ReFIT with hybrid drift detection,
+  budgeted label queries, architecture selection, replay, and distillation.
+keywords:
+  - intrusion detection
+  - concept drift
+  - active learning
+  - knowledge distillation
