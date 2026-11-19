@@ -2,8 +2,6 @@
 
 Research code for **ReFIT: A Drift-Aware Recovery Framework for Resource-Efficient IoT Intrusion Detection**.
 
-The authoritative source is the **local `IoT_NIDS/REFIT_V2.0.md` and the local files it identifies**. The core is copied byte-for-byte from that source (MD5 `8e3669ce53b84617c582fb5390adad38`). Both command-line entry points default to **UCB v2**. Direct construction of `Learner59(...)` retains the source default `v1`; pass `ucb_version="v2"` explicitly in Python. Full paper experiments were not rerun during packaging.
-
 ## Included code
 
 | File | Purpose |
