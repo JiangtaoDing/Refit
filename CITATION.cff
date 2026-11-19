@@ -1,8 +1,5 @@
 cff-version: 1.2.0
-message: >-
-  Cite the exact released version of this software. This source package
-  uses the author-designated local ReFIT v2.0 implementation; command-line
-  entry points enable UCB v2 by default.
+message: "Please cite the v2.0 release when using ReFIT in your research."
 type: software
 version: "2.0"
 repository-code: "https://github.com/JiangtaoDing/Refit"
